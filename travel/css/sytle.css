@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box
+}
+/* #all{    
+    width: 90%;
+    margin: auto;
+}
+.text {
+     text-align: center;
+     margin: auto;
+     
+}
+     
+.text h3,h4 {
+    margin:1rem;
+}
+hr{
+    width: 7%;
+    height: 5px;
+    background-color: 1px solid orange;
+    border: 3px solid orange;
+    margin: auto;
+}
+.image img{
+    vertical-align: bottom;
+    border-radius: 100%;
+    margin-top: 2rem;
+    filter: blur(.5);
+    transform: .5s;
+}
+.pictures{
+    display: flex;
+    justify-content: space-between;
+}
+.image:hover{
+    filter: brightness(.5)
+} */
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#navbar  {
+    margin: 0 auto;
+    display: flex;
+    background-color: #414b4f;
+    justify-content: space-between;
+    padding: 12px;
+}
+.date{
+    color: white;
+}
+.contact{
+    float: right;   
+    color: white;
+}
+.contact span{
+    padding: 12px;
+}
+.contact a{
+    color: white;
+    text-decoration: none;
+}
+#header{
+    background-image: url(https://travelwp.physcode.com/wp-content/uploads/2017/01/video_slider.jpg);
+}
+.header img{
+    padding: 1rem;
+    width: 20%;
+}
+.header a{
+    text-decoration: none;
+    padding: 15px;  
+    color: white;
+}
+.header .about{
+    float: right;   
+   padding: 5rem;  
+   color: white; 
+}
+.logo{
+    
+    background-attachment: NONE;
+    background-position: center;
+}
+.text {
+   
+    color: white;
+    padding: 8rem;  
+    text-align: center;
+} 
+.text h4,h3{
+   line-height: 3rem;
+   font-size: 2rem;
+}
+.text h3{
+   margin-bottom: 2rem;
+   font-size: 30px;
+}
+.text a{
+    color: black;
+    transition: .5s;
+    background-color: orange;
+}
+.text a:hover{
+    
+}
+
+
+
